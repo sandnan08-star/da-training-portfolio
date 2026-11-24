@@ -11,3 +11,5 @@ WHERE product_id = 99999;
 
 DELETE FROM products_sandbox
 WHERE product_id = 99999;
+
+select * from customers_raw;
